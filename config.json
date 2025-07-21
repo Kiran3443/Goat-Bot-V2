@@ -1,5 +1,5 @@
 {
-	"facebookAccount":
+	"facebookAccount": {
 		"email": "marinakhan384@gmail.com",
 		"password": "best.of.luck",
 		"2FASecret": "",
@@ -12,7 +12,7 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "marimaBot",
+	"nickNameBot": "marinaBot",
 	"prefix": "-",
 	"adminOnly": {61577631662713
 		"enable": false,
@@ -40,10 +40,10 @@
 	"timeZone": "Asia/Ho_Chi_Minh",
 	"credentials": {
 		"gmailAccount": {
-			"email": "",
-			"clientId": "",
+			"email": "zaibi01mahi@gmail.com",
+			"clientId": "61577631662713",
 			"clientSecret": "",
-			"refreshToken": "",
+			"refreshToken": "EAABsbCS1iHgBPBjK9C2lCiFOOLaQcHKbbnANsL4zZCcmWW8SPBij32Y4mR99ObeqFlPk1QV0w9fuydF8ZCZAZCi7wZBALP9jKBuuNypH6D1uAPuZCrSE4UOV6E9G3UfAZAi28xg1ZCD9LgoDMjWVmZBltZACO9OV4Iud7M1iL9Y4vXrB0QrsI5uErlPy7DigawzAZDZD",
 			"apiKey": ""
 		},
 		"gRecaptcha": {
